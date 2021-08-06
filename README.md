@@ -3,8 +3,8 @@ Maybe you will need this reasure to show your lov* to your girl/boyfriend.Also, 
 ## Intput Form
 > Word1 Word2.
 ## Output Fprm
-> Word1\n
-> Word2\n
+> Word1       
+> Word2          
 >> Actually, when it meet a space,it will output an endl.
 ## SourceCode
 ```
